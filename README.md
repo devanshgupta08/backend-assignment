@@ -5,9 +5,9 @@ This documentation provides an overview of the backend API built using **Express
 ## Key Features
 
 ### Route Management
-- `/announcement`: For retrieving and managing announcements.
-- `/event`: For retrieving and managing events.
-- `/user`: Provides an administrative panel to modify database entries.
+- `/api/v1/announcement`: For retrieving and managing announcements.
+- `/api/v1/event`: For retrieving and managing events.
+- `/api/v1/user`: Provides an administrative panel to modify database entries.
 
 ### User Roles
 - **Admin**: 
