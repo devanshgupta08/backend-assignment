@@ -28,7 +28,7 @@ For a complete list of available routes, their request parameters, and response 
 
 - **API Documentation**: [View API Docs](https://documenter.getpostman.com/view/29611512/2sAXxMfD5J#intro)
 - **Postman Collection**: [Download Postman Collection](https://crimson-eclipse-905734.postman.co/workspace/my-space~085f277d-4821-4b8c-9d57-8064e65bacba/collection/29611512-5e28b939-db09-4484-877b-37d193bd0348?action=share&creator=29611512)
-- **Hosted Link**: [Link](https://backend-assignment-m1w4.onrender.com/])
+- **Hosted Link**: [Link](https://backend-assignment-m1w4.onrender.com)
 
 ## License
 This project is licensed under the MIT License.
